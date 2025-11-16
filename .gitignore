@@ -1,0 +1,18 @@
+# Node modules ignore
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment files ignore
+backend/.env
+frontend/.env
+
+# Uploads or temp files (if not needed on GitHub)
+backend/uploads/
+
+# Build folders
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
